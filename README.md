@@ -68,15 +68,8 @@ gdown.download('GOOGLE_DRIVE_LINK', 'similarity.pkl', quiet=False)
 ## 🎯 Future Improvements
 - 🔥 **Hybrid Recommendation (Content + Collaborative Filtering)**
 - 📡 **Deploying to Render or Heroku**
-- 📱 **Improved UI with React or Vue.js**
 
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
-Happy coding! 🎬🍿
 
 
 
